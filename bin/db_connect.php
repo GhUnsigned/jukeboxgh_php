@@ -1,7 +1,7 @@
 <?php
 define("HOST", "localhost");
-define("USER", "root");
-define("PASSWORD", "homew");
+define("USER", "jboxmusic");
+define("PASSWORD", "jbmusic*@@$");
 define("DATABASE", "social_music");
 
 // connect to the server
